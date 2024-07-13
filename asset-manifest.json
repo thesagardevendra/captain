@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.c0ad438d.css",
+    "main.js": "/portfolio/static/js/main.db50cd32.js",
+    "static/media/Sagar.jpg": "/portfolio/static/media/Sagar.19018eb7d449f0ad7543.jpg",
+    "static/media/banner5.jpg": "/portfolio/static/media/banner5.e569399ac2ed74a3128c.jpg",
+    "static/media/mobileImage.jpg": "/portfolio/static/media/mobileImage.5f4fd07e46f8a82f1113.jpg",
+    "static/media/light.jpg": "/portfolio/static/media/light.8da17a6231f744e89ede.jpg",
+    "static/media/dark.jpg": "/portfolio/static/media/dark.6800b50fe809d9605e5e.jpg",
+    "static/media/face.JPG": "/portfolio/static/media/face.e3f44ff25c1a4c9e308d.JPG",
+    "static/media/hotstar.jpg": "/portfolio/static/media/hotstar.7999b33e04c18ecba2d9.jpg",
+    "static/media/face2.JPG": "/portfolio/static/media/face2.060814365142d93e2b62.JPG",
+    "static/media/desktopImage.jpg": "/portfolio/static/media/desktopImage.fcc1f00fd388f837178a.jpg",
+    "static/media/amazon.jpg": "/portfolio/static/media/amazon.f13f64c3da447cc9a166.jpg",
+    "static/media/captainDCM.JPG": "/portfolio/static/media/captainDCM.b110508c2d474df9404d.JPG",
+    "static/media/captainDCMBappa.JPG": "/portfolio/static/media/captainDCMBappa.cdae00f4363389be0f4f.JPG",
+    "static/media/taskm.jpg": "/portfolio/static/media/taskm.aba024fe9f3a54be448c.jpg",
+    "static/media/party.png": "/portfolio/static/media/party.01de3bdb3475476944db.png",
+    "static/media/banner3.JPG": "/portfolio/static/media/banner3.2ad406d627a0e54ebc01.JPG",
+    "static/media/logo.jpg": "/portfolio/static/media/logo.21c5375368e43da73dd0.jpg",
+    "static/media/captainCrowd.JPG": "/portfolio/static/media/captainCrowd.15b74c677b5274e36946.JPG",
+    "static/media/banner4.JPG": "/portfolio/static/media/banner4.7e41e4fcb62dfe40a3aa.JPG",
+    "static/media/captainWithDCM.JPG": "/portfolio/static/media/captainWithDCM.1ec0e29a67c7a50c7d23.JPG",
+    "static/media/banner2.jpg": "/portfolio/static/media/banner2.40fadb2c0d7a88594b6d.jpg",
+    "static/media/Banner.jpg": "/portfolio/static/media/Banner.ba9efe654b4dfe53f3b8.jpg",
+    "index.html": "/portfolio/index.html",
+    "static/media/SMFGFavicon.svg": "/portfolio/static/media/SMFGFavicon.da6807daff3e135159f3ae7bbeba3d00.svg",
+    "main.c0ad438d.css.map": "/portfolio/static/css/main.c0ad438d.css.map",
+    "main.db50cd32.js.map": "/portfolio/static/js/main.db50cd32.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0ad438d.css",
+    "static/js/main.db50cd32.js"
+  ]
+}
